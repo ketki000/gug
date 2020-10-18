@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039070771067",
+    "firebase_url": "https://chat-application-be49e.firebaseio.com",
+    "project_id": "chat-application-be49e",
+    "storage_bucket": "chat-application-be49e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039070771067:android:11219d2c2264616c86efde",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039070771067-qoid33rtrtovpp8l9bqpkup2utv4tmt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-REpYXMQxCS-7HFWe0o2fQur-RaqblRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039070771067-qoid33rtrtovpp8l9bqpkup2utv4tmt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
